@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\javascript\\javascript-basico\\010_strings\\script.js"
+            "program": "${workspaceFolder}\\javascript\\javascript-basico\\013_arrays\\script.js"
         }
     ]
 }
